@@ -6,15 +6,16 @@
     </head>
     <body> 
     <label> Govt.Autonomous College </label>
-     <nav class="navbar background">
+     <nav>
        
-        <ul class="nav-list">
-            <li><a href="#Home"Home></a></li>
-            <li><a href="#Contact"Contact></a></li>
-            <li><a href="#Admission"Admission></a></li>
-            <li><a href="#Login"Login></a></li>
+        <ul>
+            <li><a href="Home.com">Home</a></li>
+            <li><a href="Contact.com">Contact</a></li>
+            <li><a href="Admission.com">Admission</a></li>
+            <li><a href="Login.com">Login</a></li>
 
         </ul>
      </nav>
     </body>
 </html>
+
